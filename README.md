@@ -50,7 +50,7 @@ Os dados estão disponíveis para download [aqui](https://github.com/reisricardo
 ## Notebooks
 Nesse repositório você encontrará o notebook de Aprendizado Não Supervisionado com  técnica de PCA (Análise de Componentes Principais) e  Clusterização com K-means.
 
-[**unsupervised_learning**](https://github.com/reisricardo1/unsupervised_learning/new/master/unsupervised_learning_v001.ipynb)
+[**unsupervised_learning**](https://github.com/reisricardo1/unsupervised_learning/blob/master/unsupervised_learning_v001.ipynb)
 
 #### Questões de Negócio:
 **Pergunta 1:** Qual é o segmento-alvo ideal para esse novo veículo?
