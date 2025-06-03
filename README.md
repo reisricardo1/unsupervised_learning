@@ -44,7 +44,7 @@ Este estudo de caso real — “Grosse Pointe Associates and The Microvan” —
 
 ### **Dados:**
 
-Os dados estão disponíveis para download [aqui](https://github.com/reisricardo1/unsupervised_learning/new/master/data/microvan.csv) no repositório.
+Os dados estão disponíveis para download [aqui](https://github.com/reisricardo1/unsupervised_learning/blob/master/data/microvan.csv) no repositório.
 
 -----------------------
 ## Notebooks
